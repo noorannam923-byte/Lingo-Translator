@@ -2,7 +2,7 @@
 
 The Lingo Translator is a language translation tool designed to break communication barriers by enabling seamless conversion of text between multiple languages.
 
-<img width="600" height="500" alt="{6E7F6819-E3D4-4444-A811-F5487B3B3ADC}" src="https://github.com/user-attachments/assets/ee8e642e-0c6d-4e25-93c0-1df58bdfbe2d" />
+<img width="700" height="500" alt="{6E7F6819-E3D4-4444-A811-F5487B3B3ADC}" src="https://github.com/user-attachments/assets/ee8e642e-0c6d-4e25-93c0-1df58bdfbe2d" />
 
 
 Quickstart (Windows):
